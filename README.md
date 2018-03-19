@@ -11,6 +11,7 @@ TGIM (Ramco Systems, Adyar, Chennai, INDIA)
 ## Speakers:
 
 1. Mr. Ramkumar G | Chief Product Officer, Lynk Logistics
+2. Mr. Jagadeesh | IOS Lead at Lynk Logistics
 
 ## Agenda:
 
