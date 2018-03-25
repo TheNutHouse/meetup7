@@ -17,13 +17,13 @@ TGIM (Ramco Systems, Adyar, Chennai, INDIA)
 
 A brief discussion on Mobile app development for an on-demand business throwing light on Lynk Logistics and also a chat on Mobile app architecture, design patterns and app-server communication frameworks
 
-<!-- ## Credits:
+## Credits:
 
-1. Jennifer George & Vinitha Ramani - For helping us with all meetup related communications to all the people, opening up audience
+1. Jennifer George, Sirsendu Sarkar & Vinitha Ramani - For helping us with all meetup related communications to all the people, opening up audience
 
 2. Nitin Katyal - For getting his team to help us out with Parking, onboarding people inside, security, samosas, coffee & tea.
 
-  His team includes Lakshumanan T A, Sriram S N and Ganesh Kumar G.
+  His team includes Lakshumanan T A, Sriram S N, Meenakshi and Ganesh Kumar G.
 
 3. Kavitha - For designing the email templates for communication
 
@@ -31,4 +31,4 @@ A brief discussion on Mobile app development for an on-demand business throwing 
 
 3. IMG Support (Sekar & his team) - For providing us with mic, projector and necessary technical support.
 
-4. Audience - For attending the meetup and being very interactive with us all :-) -->
+4. Audience - For attending the meetup and being very interactive with us all :-)
